@@ -1,0 +1,17 @@
+main {
+  text-align: center;
+  section {
+    width: 90%;
+    margin: auto;
+  }
+  .container_vpn3 {
+    li {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      div {
+        text-align: initial;
+      }
+    }
+  }
+}

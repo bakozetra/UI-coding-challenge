@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  font-family: "Open Sans Regular";
+}
+
+li {
+  list-style: none;
+}
+
+ul {
+  padding: 0;
+}
+
+/* img {
+  width: 100%;
+} */
+section {
+  margin: auto;
+  width: 90%;
+}
+
+p,
+h4 {
+  font-size: 18px;
+}
+
+h3 {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  margin: auto;
+}
+header h1 {
+  text-align: center;
+}
+header ul {
+  display: flex;
+  justify-content: space-between;
+}
+
+main {
+  text-align: center;
+}
+main section {
+  width: 90%;
+  margin: auto;
+}
+main .container_vpn3 li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+main .container_vpn3 li div {
+  text-align: initial;
+}
+
+/*# sourceMappingURL=/style.e0c02e61.css.map */
